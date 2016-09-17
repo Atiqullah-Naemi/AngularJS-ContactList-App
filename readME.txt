@@ -1,0 +1,1 @@
+This is a very simple contact list appliction using angularjs and bootstrap. My only purpose is to help anyone who wants to learn angularjs in fast and productive way.
