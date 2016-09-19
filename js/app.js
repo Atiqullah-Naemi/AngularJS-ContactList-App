@@ -6,8 +6,8 @@ var app = angular.module('contactApp', ['ngAnimate']);
 		contactList.contacts = [
 
 			{
-				name:  'John Doe',
-				email: 'johndoe@gmail.com',
+				name:  'SomeOne',
+				email: 'something@something.com',
 				phone: '222222222'
 			}
 
